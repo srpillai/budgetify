@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1",
+    "global": "^4.3.2",
+    "live-server": "^1.2.1"
+  },
+  "name": "budgetify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/srpillai/budgetify.git",
+  "author": "srpillai <srpillai@hotmail.com>",
+  "license": "MIT"
+}
