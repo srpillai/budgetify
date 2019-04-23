@@ -1,4 +1,4 @@
-#Budgetify
+Budgetify
 
 This is part of LaunchCode Unit-4 Liftoff class for front-end development.
 Uses  React, Redux, webpack, firebase,  CSS styling,  and Javascript.
@@ -35,10 +35,9 @@ Installing:
 
 A step by step examples that tell you how to get the game going:
 * Clone or Download a copy from the Github: https://github.com/srpillai/budgetify.git
-* go the cloned or downloaded page in Terminal as in
-* example cd desktop/lc101/liftoff/react-projects/budgetify
-* run babel src/app.js   —out-file=public/scripts/app.js  —presets=env,react 
-* run live-server public
+* go the cloned or downloaded page in Terminal as in example:  cd desktop/lc101/liftoff/react-projects/budgetify
+* yarn run dev-server 
+* yarn run serve
 
 Built With:
 
@@ -64,4 +63,3 @@ Acknowledgments:
 * LaunchCode Unit-4 Liftoff Team
 * LaunchCode Unit-3 Team
 * Inspiration: LC 101 - LaunchCode, Kansas City, MO
-
