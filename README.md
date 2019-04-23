@@ -36,6 +36,8 @@ Installing:
 A step by step examples that tell you how to get the game going:
 * Clone or Download a copy from the Github: https://github.com/srpillai/budgetify.git
 * go the cloned or downloaded page in Terminal as in example:  cd desktop/lc101/liftoff/react-projects/budgetify
+
+Start by:  yarn install
 * yarn run dev-server 
 * yarn run serve
 
