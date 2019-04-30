@@ -16,7 +16,7 @@ The Goal:
 - Create Expenses:
 - Edit Expenses:
 - Remove Expenses:
-- Search Expenses:
+- Search Expenses.
 
 Getting Started:
 
@@ -29,6 +29,7 @@ Prerequisites:
 Things you need to install the software and how to install them:
 
 * You will need a chrome or similar browser
+* npm or yarn installed
 
 Installing:
 
