@@ -18,20 +18,20 @@ Created by Radhakrishnan Pillai for LaunchCode Unit-4 Liftoff.
 - Remove Expenses:
 - Search Expenses.
 
-Getting Started:
+## Getting Started:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes:
 
 * Download a copy from the Github: https://github.com/srpillai/bugetify.git
 
-Prerequisites:
+## Prerequisites:
 
 Things you need to install the software and how to install them:
 
 * You will need a chrome or similar browser
 * npm or yarn installed
 
-Installing:
+# Installing:
 
 A step by step examples that tell you how to get the game going:
 * Clone or Download a copy from the Github: https://github.com/srpillai/budgetify.git
@@ -41,7 +41,7 @@ Start by:  yarn install (first time only)
 * yarn run dev-server  or npm run dev-server
 * yarn run serve or npm npm run serve
 
-Built With:
+## Built With:
 
 * React - The front-end library
 * Redux - for store
@@ -49,19 +49,19 @@ Built With:
 * CSS - for styling
 * Javascript - for interactivity
 
-Contributing:
+## Contributing:
 
 * Created as part of LaunchCode unit-4 Liftoff front-end development course
 
-Authors:
+## Author:
 
 * Radhakrishnan Pillai - Initial work - LaunchCoder 2019
 
-License:
+## License:
 
 * This project is licensed under the MIT License
 
-Acknowledgments:
+## Acknowledgments:
 
 * LaunchCode Unit-4 Liftoff Team
 * LaunchCode Unit-3 Team
