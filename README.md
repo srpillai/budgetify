@@ -1,4 +1,4 @@
-Budgetify
+# Budgetify
 
 This is part of LaunchCode Unit-4 Liftoff class for front-end development.
 Uses  React, Redux, webpack, firebase,  CSS styling and Javascript.
@@ -10,7 +10,7 @@ Created by Radhakrishnan Pillai for LaunchCode Unit-4 Liftoff.
  
 - This application will be similar to a “Blog” application. Instead of the blog posts budgetify creates an personal expense management system.
 
-The Goal:
+## The Goal:
 
 - User Login: 
 - Create Expenses:
