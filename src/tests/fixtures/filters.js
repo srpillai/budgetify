@@ -15,4 +15,3 @@ const altFilters = {
 };
 
 export { filters, altFilters };
-

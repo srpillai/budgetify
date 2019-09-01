@@ -15,4 +15,3 @@ test('should generate logout action object', () => {
     type: 'LOGOUT'
   });
 });
-

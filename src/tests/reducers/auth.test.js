@@ -16,4 +16,3 @@ test('should clear uid for logout', () => {
   const state = authReducer({ uid: 'anything' }, action);
   expect(state).toEqual({});
 });
-

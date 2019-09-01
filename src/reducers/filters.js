@@ -40,4 +40,3 @@ export default (state = filtersReducerDefaultState, action) => {
       return state;
   }
 };
-
