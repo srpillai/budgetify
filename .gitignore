@@ -4,5 +4,5 @@ public/dist/
 .env.development
 yarn.lock
 .DS_Store
-package-lock.json
 jest.config.json
+package-lock.json
