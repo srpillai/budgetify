@@ -2,7 +2,7 @@
 
 This is part of LaunchCode Unit-4 Liftoff class for front-end development.
 Uses  React, Redux, webpack, firebase,  CSS styling and Javascript.
-Created by Radhakrishnan Pillai for LaunchCode Unit-4 Liftoff.
+Created by Radhakrishnan Pillai for LaunchCode Liftoff.
 
 - This budget manager app is called “Budgetify” which allows to track personal expenses. Budgetify allows to create accounts through new user login. Users can create, view, track, modify and remove expenses. 
 
