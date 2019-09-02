@@ -1,9 +1,7 @@
 node_modules/
-public/dist/
 .env.test
 .env.development
 .DS_Store
-jest.config.json
 public/bundle.js
 public/bundle.js.map
 public/styles.css
